@@ -3,20 +3,20 @@ Ya has aprendido las configuraciones básicas de entradas. Es momento de ponerla
 El código a copiar es el siguiente:
 
 ```ino
->int dato;  
->void setup()  
->{  
->Serial.begin(9600);   
->pinMode(13, OUTPUT);  
->}  
->void loop()  
->{  
->dato = analogRead(A0);    
-> if(dato>500)  
-> digitalWrite(13, HIGH);  
->else  
->digitalWrite(13, LOW);  
->}
+int dato;  
+void setup()  
+{  
+Serial.begin(9600);   
+pinMode(13, OUTPUT);  
+}  
+void loop()  
+{  
+dato = analogRead(A0);    
+ if(dato>500)  
+ digitalWrite(13, HIGH);  
+else  
+digitalWrite(13, LOW);  
+}
 ```
 
 También puedes descargarlo como .zip desde github
