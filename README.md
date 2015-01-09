@@ -2,6 +2,7 @@ Ya has aprendido las configuraciones básicas de entradas. Es momento de ponerla
 
 El código a copiar es el siguiente:
 
+```ino
 >int dato;  
 >void setup()  
 >{  
@@ -16,6 +17,7 @@ El código a copiar es el siguiente:
 >else  
 >digitalWrite(13, LOW);  
 >}
+```
 
 También puedes descargarlo como .zip desde github
 
