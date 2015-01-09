@@ -26,4 +26,4 @@ Si es la primera vez que usas el Arduino en tu computadora, sigue este tutorial 
 y las conexiones son las mismas que las realizadas en la entrada analógica, conectada al pin A0 del Arduino.
 Pdta: observa la placa Arduino al mover el potenciómetro con mucha atención... y verás la luz.
 
-¡Envía una foto de tu circuito y coméntanos el resultado!
+Mándalo por el formulario, ¡y te damos más puntos si además lo publicas en el foro!
